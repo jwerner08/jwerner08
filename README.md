@@ -1,15 +1,15 @@
-# Hello, World! I'm Jakob 🎸👨‍💻
+### Hey there, I'm Jakob 🎸👨‍💻
 
-## Who am I?
-I gave up teaching scales and melodies to tune and scale applications. I'm primarily a Backend Software Engineer and Data Engineer.
+### Who am I?
+I gave up teaching scales and melodies to tune and scale applications. I'm primarily a Backend Software Engineer and Data Engineer who's fascinated by tech.
 
-## What I'm About
+### What I'm About
 - 🎯 I love challenges, and I'm always eager to surpass goals and expectations.
 - ⚡ Quick to turn thoughts into action with high energy and positivity.
 - 💡 Interesting problems often require creative solutions; I thoroughly enjoy spending time between being methodical and creative.
 - 📖 Happy to be ignorant, and satisfied to be knowledgeable; Let's knowledge share and grow together!
 
-## Currently
+### Currently
 - 🧑‍🔧 Crafting data products with Brandfolder Engineering using Python, SQL, BigQuery, Airflow, Pyspark, etc.
 - 🤝 Tuning into user needs, harmonizing content and tech, with a backbeat of data.
 - 🎤 Open mic for collaborations, learning, and sharing the stage to code up something awesome.
