@@ -1,7 +1,7 @@
 ### Hey there, I'm Jakob 🎸👨‍💻
 
 ### Who am I?
-I gave up teaching scales and melodies to tune and scale applications. I'm primarily a Backend Software Engineer and Data Engineer who's fascinated by tech.
+I gave up teaching scales and melodies to tune and scale applications. I'm primarily a Backend Software/Data Engineer who's fascinated by tech.
 
 ### What I'm About
 - 🎯 I love challenges, and I'm always eager to surpass goals and expectations.
