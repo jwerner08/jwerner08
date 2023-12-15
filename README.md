@@ -10,7 +10,7 @@ I gave up teaching scales and melodies to tune and scale applications. I'm prima
 - 📖 Happy to be ignorant, and satisfied to be knowledgeable; Let's knowledge share and grow together!
 
 ### Currently
-- 🧑‍🔧 Crafting data products with Brandfolder Engineering using Python, SQL, BigQuery, Airflow, Pyspark, etc.
+- 🧑‍🔧 Composing data products with [Brandfolder](https://brandfolder.com/), using Python, SQL, BigQuery, Airflow, Pyspark, etc.
 - 🤝 Tuning into user needs, harmonizing content and tech, with a backbeat of data.
 - 🎤 Open mic for collaborations, learning, and sharing the stage to code up something awesome.
 
