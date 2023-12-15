@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, World! I'm Jakob 🎸👨‍💻
 
-<!--
-**jwerner08/jwerner08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I gave up teaching scales and melodies to tune and scale applications. I'm primarily a Backend Software Engineer and Data Engineer.
 
-Here are some ideas to get you started:
+## What I'm About
+- 🎯 I love challenges, and I'm always eager to surpass goals and expectations.
+- ⚡ Quick to turn thoughts into action with high energy and positivity.
+- 💡 Interesting problems often require creative solutions; I thoroughly enjoy spending time between being methodical and creative.
+- 📖 Happy to be ignorant, and satisfied to be knowledgeable; Let's knowledge share and grow together!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🧑‍🔧 Crafting data products with Brandfolder Engineering using Python, SQL, BigQuery, Airflow, Pyspark, etc.
+- 🤝 Tuning into user needs, harmonizing content and tech, with a backbeat of data.
+- 🎤 Open mic for collaborations, learning, and sharing the stage to code up something awesome.
+
+Let's riff on some ideas or jam on a project together!
