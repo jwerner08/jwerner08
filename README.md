@@ -7,7 +7,7 @@ I gave up teaching scales and melodies to tune and scale applications. I'm prima
 - 🎯 I love challenges, and I'm always eager to surpass goals and expectations.
 - ⚡ Quick to turn thoughts into action with high energy and positivity.
 - 💡 Interesting problems often require creative solutions; I thoroughly enjoy spending time between being methodical and creative.
-- 📖 Happy to be ignorant, and satisfied to be knowledgeable; Let's knowledge share and grow together!
+- 📖 Always striving to learn and satisfied when knowledgeable; Let's knowledge share and grow together!
 
 ### Currently
 - 🧑‍🔧 Composing data products with [Brandfolder](https://brandfolder.com/), using Python, SQL, BigQuery, Airflow, Pyspark, etc.
